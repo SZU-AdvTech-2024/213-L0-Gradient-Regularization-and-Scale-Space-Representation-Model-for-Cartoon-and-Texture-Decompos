@@ -1,0 +1,11 @@
+@article{REPO213,
+    author = "Pan, Huan and Wen, You-Wei and Huang, Ya",
+    doi = "10.1109/TIP.2024.3403505",
+    journal = "IEEE Transactions on Image Processing",
+    keywords = "Image edge detection;TV;Smoothing methods;Task analysis;Signal to noise ratio;Minimization;Convolution;Total variation;scale space;cartoon;texture;decomposition",
+    number = "",
+    pages = "4016-4028",
+    title = "{L₀ Gradient-Regularization and Scale Space Representation Model for Cartoon and Texture Decomposition}",
+    volume = "33",
+    year = "2024"
+}
